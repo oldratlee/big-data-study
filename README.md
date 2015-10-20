@@ -22,8 +22,9 @@
 已有的资料汇编
 -------------------
 
-1. [大数据应用与技术 - 入门资源汇编](https://github.com/memect/hao/blob/master/awesome/learn-big-data.md)
-1. [详细的领域列表 - Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)
+1. [分布式系统(Distributed System)资料](https://github.com/ty4z2008/Qix/blob/master/ds.md) by @ty4z2008
+1. [大数据应用与技术 - 入门资源汇编](https://github.com/memect/hao/blob/master/awesome/learn-big-data.md) by @memect
+1. [详细的领域列表 - Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 1. [The Hadoop Ecosystem Table](http://hadoopecosystemtable.github.io/)
 
 书籍
