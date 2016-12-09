@@ -12,7 +12,7 @@
 \# 中文译文：[`PayPal`高级工程总监：读完这100篇论文就能成大数据高手](http://www.csdn.net/article/2015-07-07/2825148)
 1. [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)  
 \# 中文译文：[日志：每个软件工程师都应该知道的有关实时数据的统一抽象](https://github.com/oldratlee/translations/tree/master/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)  
-来自`LinkedIn`的`Kreps`发表的一篇博文，虽然很长，但是被称为[程序员***史诗般必读***文章](http://bryanpendleton.blogspot.hk/2014/01/the-log-epic-software-engineering.html)。
+来自`LinkedIn`的`Kreps`发表的一篇博文，虽然很长，但是被称为[程序员 ***史诗般必读*** 文章](http://bryanpendleton.blogspot.hk/2014/01/the-log-epic-software-engineering.html)。
 日志原本应该是运维人员掌握的，如今也是研发人员必须关心的，这是符合`DevOps`原则。
 1. `Google`公开的大数据领域论文
     1. [Big Data beyond MapReduce: Google's Big Data papers](http://blog.mikiobraun.de/2013/02/big-data-beyond-map-reduce-googles-papers.html)   
